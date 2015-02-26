@@ -1,3 +1,4 @@
+**Publish a dataset**
 1.	upload an object
 	1.  upload an object from their computer
 		1.	drag & drop an object on an upload target
@@ -62,3 +63,5 @@
 	1. pre-reserve a PID for an object that is not public
 	
 1.	select a usage license
+
+1.	get credit
