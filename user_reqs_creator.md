@@ -7,12 +7,12 @@
 	1.	upload an object from cloud storage
 		1.	link to cloud storage account
 		1.	select an object using the storage provider's interface
-	1.  upload multiple objects at once
-		1.	select multiple objects at once
+	1.  upload multiple files at once
+		1.	select multiple files at once
 			1.	select a folder/directory with internal structure
 				1.	upload without flattening the internal structure
 			1.	select muliple files with system picker
-		1. add objects one at a time to an upload queue 
+		1. add files one at a time to an upload queue 
 	1.	review files to be uploaded before upload starts
 		1. initiate upload
 		1. cancel upload
@@ -23,6 +23,8 @@
 	1.	cancel upload while in-progress
 		(e.g., if taking too long)
 	1.	delete an object after upload
+	1.	upload a newer version of an object
+		1.	revert to older version
 
 1.  describe an object
 	1.  enter DataCite minimum required metadata
@@ -43,7 +45,7 @@
 		1.	link to a publication
 		1.	link to an arbitrary object that has a PID
 		1.	describe the relationship 
-			*Technical note: using the relationships in the DataCite metadata schema*
+			(_Technical note: using the relationships in the DataCite metadata schema_)
 			1.	this cites that
 			1.	that cites this
 			1.	this is part of that
@@ -55,14 +57,57 @@
 			1.	this documents that
 			1.	that documents this
 			1.	this == that
+			1.	_etc._
 		1.	link to an arbitrary number of other objects
-	1. save an incomplete description
-	1. describe multiple objects at once
+	1.	save an incomplete description
+		1.	return to a saved description
+		2.	delete a saved but npublished description
+	1.	cancel an in-progress description
+	1.	describe multiple objects at once
+	1.	update metadata of a published object
+		1.	cancel an in-progress revision
+		1.	revert to older version
 
-1.	obtain a PID
-	1. obtain a DOI
-	1. pre-reserve a PID for an object that is not public
-	
+1.	link object to a PID
+	1.	obtain a PID
+		1. 	obtain a DOI
+		1. 	pre-reserve a PID for an object that is not public
+	1. link object to a pre-existing PID
+
 1.	select a usage license
+	1. 	select a CC license
+	2. 	select an alternate license
+	3. 	understand licensing options
+		1.	access simple explanation
+		2.	access exact language
+	
+1.	select access rights
+	1.	make immediately public
+	2.	set an embargo period, after which the object becomes public
+	3.	limit access
+		1.	limit access to specified user(s)
+		2.	limit access to group of users
+			1. limit access to users at same institution
+			2. limit access to academic users
+			
+1.	publish an object
+	1.	review metadata before publishing
+	2.	save object and metadata to publish later
+		1.	return to a saved object/metadata package
+		2.	delete a saved object/metadata package without publishing
+	3.	delete a published object (_probably not a good idea_)
 
 1.	get credit
+	1.	get formally cited
+	1.	show dataset on ORCiD/ImpactStory/etc. profile
+	1.	report metrics
+		1.	citations
+		1.	downloads
+		1.	views
+		1.	social media shares
+	
+1.	curate a collection of objects
+	1.	enter collection-level metadata
+	1.	set collection level permissions
+	1.	add objects to collection
+	1.	remove objects from collection

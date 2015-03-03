@@ -23,32 +23,44 @@
 		1.	Read a description of the object
 		2.	Preview the object
 		1.	Understand license and any use restrictions
+			1.	access a plain-language description
+			2.	acceess the full text
 
-	1.	download data
+	1.	Download data
 		2.	download entire object 	
 		1.	download individual files
+		2.	cancel an in-progress download
 
-	1.	preview data before download
+	1.	Preview data before download
 		1.	view object size	
 		1.	view files in a complex object
 		2.	view individual file sizes
 		3.	view spreadsheet contents
 		4.	view graphical items (e.g., PDFs)
 
-	1.	download citation
+	1.	access older / newer version(s) of data
+		1. access older / newer version(s) of metadata
+
+
+1.	cite dataset
+	1.	copy/paste a recommended citation string
+		1.	reformat the citation string for a particular publisher
+	1.	import into a reference manager
 		1.	download as BibTex
 		2.	download as RIS
 		3.	download in program-specific format (e.g., EndNote)
-		4.	import to Zotero directly 
-			(*other direct imports?*)
+		4.	import to Zotero directly (_other direct imports?_)
 		5.	save to Mendeley
-
-	1.	access older / newer version(s) of data
-
-1.	cite dataset
-	1. copy/paste a preferred citation string
-	2. indicate precisely what is cited
-	3. provide a permanent address
+	2.	indicate precisely what is cited
+	3.	cite with a permanent location
 
 1.	comment on dataset
-	2. contact creator(s) with questions. 	
+	2.	contact creator(s) with questions.
+	1.	rate or endorse dataset
+	1.	point out any errors
+	1.	annotate dataset
+
+1.	share dataset
+	1.	embed dataset elsewhere
+	2.	share link on social media
+	3.	email link
