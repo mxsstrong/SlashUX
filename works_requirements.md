@@ -44,7 +44,7 @@ Publish: make a deposited item publicly visible
       * at latest point where the user entered something, or
       * let user pick where
   2. delete / abandon
-      require the user to confirm
+      * require the user to confirm
 2. Published
   1. edit metadata
       * return to workflow, or
