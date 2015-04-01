@@ -18,6 +18,7 @@ Publish: make a deposited item publicly visible
   *Metadata can be edited
   
 **Functional requirements**
+
 1. In-progress
   1. resume work
     1. edit metadata
@@ -37,6 +38,7 @@ Publish: make a deposited item publicly visible
       this is a complicated: not addressed right now
 
 **Implementation notes**
+
 1. In-progress
   1. resume work: re-opens workflow
       at latest point where the user entered something, or
