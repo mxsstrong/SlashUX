@@ -24,8 +24,7 @@
 		(e.g., if taking too long)
 	1.	delete an object after upload
 	1.	upload a newer version of an object
-		1.	revert to older version  *** previous versions not supported here
-
+	
 1.  describe an object
 	1.  enter DataCite minimum required metadata
 		1.  enter a title
@@ -66,7 +65,6 @@
 	1.	describe multiple objects at once
 	1.	update metadata of a published object
 		1.	cancel an in-progress revision
-		1.	revert to older version  **** auto save will not users to revert back to previous versions
 
 1.	link object to a PID
 	1.	obtain a PID
@@ -84,27 +82,22 @@
 1.	select access rights **** limitations on what embargo functionality we will allow.  these seem to be outstanding?
 	1.	make immediately public
 	2.	set an embargo period, after which the object becomes public
-	3.	limit access
-		1.	limit access to specified user(s)
-		2.	limit access to group of users
-			1. limit access to users at same institution
-			2. limit access to academic users   
+
 			
 1.	publish an object
 	1.	review metadata before publishing
 	2.	save object and metadata to publish later
 		1.	return to a saved object/metadata package
 		2.	delete a saved object/metadata package without publishing
-	3.	delete a published object (_probably not a good idea_)  **** not allowed
+
 
 1.	get credit
 	1.	get formally cited
-	1.	show dataset on ORCiD/ImpactStory/etc. profile  *** not in current requirements
-	1.	report metrics *** views and / or social media shares haven't been addressed
+
+	1.	report metrics 
 		1.	citations
 		1.	downloads
-		1.	views
-		1.	social media shares  
+		1.	views - perhaps Blacklight could help
 	
 1.	curate a collection of objects  *** not in current requirements
 	1.	enter collection-level metadata
